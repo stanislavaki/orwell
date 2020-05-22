@@ -99,8 +99,8 @@ p.author {
   top: 0px;
   left: 10px;
   z-index: 1;
-  width: 50%;
-  height: 400px;
+  width: 100%;
+  height: auto;
   overflow: hidden;
 
 }
